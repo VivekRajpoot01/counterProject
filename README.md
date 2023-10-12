@@ -16,9 +16,12 @@ The main application logic is contained within the `App.js` file.
 
 ## Installation
 
-1. Clone this repository.
-2. Install the dependencies using `npm install`.
-3. Start the development server using `npm run dev`.
+1. Clone this repository by using the HTTPS URL.
+   '
+   git clone https://github.com/VivekRajpoot01/counterProject.git
+   '
+3. Install the dependencies using `npm install`.
+4. Start the development server using `npm run dev`.
 
 ## Contributing
 
